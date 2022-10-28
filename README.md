@@ -1,2 +1,2 @@
 # SimonGame
- Play this game.
+Impelmented Simon Game using HTML, CSS, JavaScript, jQuery.
